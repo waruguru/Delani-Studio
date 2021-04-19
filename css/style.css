@@ -23,3 +23,7 @@
 #logo {
     margin-bottom: 1rem;
 }
+#mouseIcon {
+    margin: auto auto 5vh auto;
+    animation: bounce 2s infinite;
+}
