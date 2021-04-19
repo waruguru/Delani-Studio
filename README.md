@@ -34,30 +34,6 @@ Licenced under the [MIT Licence](LICENCE)
 
 
 
-/* Contact Us section */
-#contactUsWrapper {
-    position: relative;
-}
-
-#contactUs {
-    height: auto;
-    padding-bottom: 2rem;
-    min-width: 100%;
-    position: absolute;
-    left: 0;
-    right: 0;
-    background-image: url("../assets/backgrounds/c_image.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: white;
-}
-
-.form-control::-webkit-input-placeholder {
-    color: white;
-    font-style: italic;
-    opacity: 0.7;
-}
 
 #socialMedia {
     height: auto;
