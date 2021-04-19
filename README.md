@@ -5,10 +5,10 @@ Dalani Studio
 Muriithi Joyce
 ## Description
 This is a landing page for a fictional studio that has different sections, welcome , about us services ,what we do, portfolio and contact us.
-#### Setup/Installation Requirements
-To view the website, go to 
+
 
 ### Live Link
+https://waruguru.github.io/Delani-Studio/
 
 
 
@@ -16,8 +16,8 @@ To view the website, go to
 HTML
 Bootstrap
 JS
- JQuery 
-  CSS
+JQuery 
+CSS
 
 ## Support and contact details
 incase of any question,concern or idea please feel free to contact me at rachelmuriithi57@gmail.com
