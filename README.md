@@ -32,10 +32,7 @@ Licenced under the [MIT Licence](LICENCE)
 
 
 
-/* What We Do */
-#thirdSection {
-    height: auto;
-}
+
 
 /* Contact Us section */
 #contactUsWrapper {
