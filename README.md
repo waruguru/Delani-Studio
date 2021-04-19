@@ -37,13 +37,6 @@ Licenced under the [MIT Licence](LICENCE)
 
 
 
-/* Media Queries */
-@media screen and (min-width:720px) {
-    #header p {
-        font-size: 3rem;
-    }
-
-}
 
 .image-block {
     background-color: white;
