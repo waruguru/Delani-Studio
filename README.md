@@ -30,21 +30,7 @@ Licenced under the [MIT Licence](LICENCE)
 
 
 
-#services-wrapper {
-    padding: 1rem;
-    position: relative;
-}
 
-#services {
-    background-image: url("../assets/backgrounds/s_image.jpg");
-    background-size: cover;
-    background-position: center;
-    height: auto;
-    min-height: 40vh;
-    width: 100%;
-    position: absolute;
-    left: 0;
-}
 
 /* What We Do */
 #thirdSection {
