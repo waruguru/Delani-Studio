@@ -11,14 +11,14 @@ $(document).ready(function(e){
         $('.pdt-mgt-image, .pdt-mgt-text').fadeToggle();
     });
 
-    // $('#contactUsForm').submit(function(event){
-    //     let userName = $('#userName').val();
-    //     let userEmail = $('#userEmail').val();
-    //     let userMessage = $('#userName').val();
-    //     alert("Hello " + userName + ". We have received your message. Thank you for contacting us.")
+    $('#contactUsForm').submit(function(event){
+        let userName = $('#userName').val();
+        let userEmail = $('#userEmail').val();
+        let userMessage = $('#userName').val();
+        alert("Hello " + userName + ". We have received your message. Thank you for contacting us.")
 
-    //     event.preventDefault();
-    // });
+        event.preventDefault();
+    });
 
     // Portfolio hover effect.
 //     $('.img-ovly-1, .img-ovly-2, .img-ovly-3, .img-ovly-4, .img-ovly-5, .img-ovly-6, .img-ovly-7, .img-ovly-8').hide();
