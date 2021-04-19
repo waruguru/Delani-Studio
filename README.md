@@ -28,19 +28,7 @@ Any suggestion or idea on how to go about it is welcomed.
 
 Licenced under the [MIT Licence](LICENCE)
 
-/* Second Section */
-.second {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
-#aboutUs {
-    height: auto;
-    min-height: 40vh;
-    width: 100%;
-    padding: 1rem;
-}
 
 #services-wrapper {
     padding: 1rem;
