@@ -27,3 +27,7 @@
     margin: auto auto 5vh auto;
     animation: bounce 2s infinite;
 }
+
+#mouseIcon:hover {
+    animation-play-state: paused;
+}
