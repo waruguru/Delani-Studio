@@ -35,22 +35,7 @@ Licenced under the [MIT Licence](LICENCE)
 
 
 
-#socialMedia {
-    height: auto;
-    width: 100%;
-}
 
-#icons {
-    height: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
-
-#icons a {
-    padding: 1rem;
-}
 
 /* Media Queries */
 @media screen and (min-width:720px) {
