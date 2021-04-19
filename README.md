@@ -13,7 +13,11 @@ To view the website, go to
 
 
 ## Technologies Used
-Languages:HTML,Bootstrap,JS, JQuery and CSS
+HTML
+Bootstrap
+JS
+ JQuery 
+  CSS
 
 ## Support and contact details
 incase of any question,concern or idea please feel free to contact me at rachelmuriithi57@gmail.com
