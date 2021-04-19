@@ -8,7 +8,7 @@
     align-items: center;
     height: 100vh;
 }
-#header p{
+/* #header p{
     color: white;
     text-align: center;
     text-transform: uppercase;
@@ -30,4 +30,4 @@
 
 #mouseIcon:hover {
     animation-play-state: paused;
-}
+} */
